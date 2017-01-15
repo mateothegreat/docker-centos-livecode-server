@@ -14,7 +14,7 @@ Replace the directory which is linked to the server with the full path to your l
 docker run -id  -v <your local directory>:/var/www/html \
                 -p 80:80 \
                 --name livecode-server \
-                appsoa/docker-centos-devops-livecode
+                appsoa/docker-centos-livecode-server
 ```
 
 The server will launch and go into the background and you can now access the web server by going to http://localhost/test.lc.
