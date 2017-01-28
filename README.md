@@ -1,6 +1,6 @@
 # LiveCode Server Environment
 
-<span style="float: right; padding-left: 15px; width: 330px; text-align: right; display: block;">
+<span style="float: left; padding-right: 20px; width: 330px; text-align: right; display: block;">
 ![livecode](http://i.imgur.com/zfcCDCl.png)
 ![docker](http://i.imgur.com/rAuZnDH.png)
 </span>
