@@ -1,5 +1,10 @@
 # LiveCode Server Environment
 
+<span style="float: right; padding-left: 15px; display: block; text-align: center">
+![livecode](http://i.imgur.com/zfcCDCl.png)
+![docker](http://i.imgur.com/rAuZnDH.png)
+</span>
+
 LiveCode is a scripting language that is interpreted by a processor (<http://www.livecode.com/>) like php, ruby, etc.
 
 This image combines the "LiveCodeCommunityServer" with the apache web server and is accessible on your local
